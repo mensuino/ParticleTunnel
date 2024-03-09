@@ -1,0 +1,26 @@
+{
+"name": "particletunnel-mensuino",
+"version": "1.0.0",
+"description": "This project demonstrates the creation of a simple 3D particle tunnel effect using JavaScript and Three.js library.",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/mensuino/ParticleTunnel.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "mensuino",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
